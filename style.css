@@ -1,0 +1,54 @@
+body {
+    box-sizing: border-box;
+    background: #000c22;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.6;
+    font-size: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Rubik', sans-serif;
+    font-size: 70px;
+    margin: 2rem auto 2rem;
+    
+}
+
+h2 {
+    border: solid white;
+    border-radius: 5px;
+    border-width: 1px;
+    max-width: 250px;
+}
+
+
+p {
+    margin: 2rem auto 2rem;
+}
+
+.p-width {
+    max-width: 650px;
+}
+
+.img-control {
+    display: block;
+    margin: 0 auto 3rem;
+}
+
+.img-margin-bottom {
+    margin-bottom: 3.5rem;
+}
+
+footer {
+    margin-top: 2rem;
+}
+
+#copyright {
+    text-align: center;
+}
+
